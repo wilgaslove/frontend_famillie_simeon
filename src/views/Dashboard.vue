@@ -46,7 +46,7 @@ const nouveauMembre = ref({
   firstName: "",
   lastName: "",
   profession: "",
-  contact: Number,
+  contact: "",
   address: "",
   dateArrivee: "",
   requetePriere: "",
