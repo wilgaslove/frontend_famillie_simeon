@@ -991,5 +991,7 @@ onMounted(async () => {
   width: 100%;
   border: 1px solid #ccc;
   border-radius: 4px;
+  
 }
+
 </style>
